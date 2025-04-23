@@ -1,6 +1,6 @@
 {
   "name": "pumpfun-bundler",
-  "author": "EarthZeta",
+  "author": "Kratos",
   "scripts": {
     "start": "ts-node index.ts",
     "close": "ts-node closeLut.ts",
